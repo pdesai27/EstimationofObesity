@@ -6,5 +6,4 @@ This project aims to try to make predictions and estimations of obesity levels b
 
 ## Resources
 
-We have selected the dataset from the UCI Machine Learning Repository , most knowns as the Center for Machine Learning and Intelligent Systems. The dataset we chose contains information about Obesity levels, eating habits, and physical condition of a sample in two countries in South America, Colombia and Peru, and one country from North America, Mexico. All the countries have in common the Spanish language, so we can deduce that has similar cultures. Finally, the dataset has 17 features and over 2,111 observations.
-The resource that we will use to clean, analyze, and do feature engineering to the data fit the model evaluation of Machine Learning will be Python programming language. Finally, we will use Tableau for some DataViz due to its better design plots and charming features.
+I have selected the dataset from the UCI Machine Learning Repository. The dataset chose contains information about Obesity levels, eating habits, and physical condition of a sample in two countries in South America, Colombia and Peru, and one country from North America, Mexico. All the countries have in common the Spanish language, so we can deduce that has similar cultures. Finally, the dataset has 17 features and over 2,111 observations.
